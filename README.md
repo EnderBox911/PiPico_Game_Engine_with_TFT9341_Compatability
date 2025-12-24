@@ -31,6 +31,7 @@ The engine includes a full input system, graphics abstraction, sprite rendering,
 
 ## Project Structure
 
+```
 ├── Engine/
 │ ├── engine_core.py # Main game loop and input handling
 │ ├── game_base.py # Base class for games
@@ -45,7 +46,7 @@ The engine includes a full input system, graphics abstraction, sprite rendering,
 │     └── bin_files/ # RGB565 sprite assets (.bin)
 │
 └── main.py # Entry point
-
+```
 ---
 
 
