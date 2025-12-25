@@ -4,6 +4,8 @@ A lightweight game engine written in **MicroPython** for the **Raspberry Pi Pico
 
 The engine includes a full input system, graphics abstraction, sprite rendering, and game state management. A complete **Blackjack** game is included as a demo.
 
+Youtube Video: https://www.youtube.com/watch?v=8-TPzRH4PSI
+
 ---
 
 ## Features
